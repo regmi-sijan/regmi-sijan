@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="./particle-flow.gif" alt="Decorative animation of teal and blue particle tracks converging and radiating through detector rings" width="100%" />
+  <br /><sub>Particle flow · Original schematic animation, not a physics simulation.</sub>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/regmi-sijan/"><strong>LinkedIn</strong></a>
   &nbsp; · &nbsp;
   <a href="https://orcid.org/0000-0003-2620-2578"><strong>ORCID & publications</strong></a>
@@ -101,4 +106,3 @@ Co-author as a member of the **sPHENIX Collaboration**:
 </p>
 
 <!-- Visual assets: original banner and toolkit layout. Python, C++, and Git icons from Simple Icons (https://simpleicons.org/), CC0. Brand marks belong to their respective owners. -->
-
