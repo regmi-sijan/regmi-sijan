@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="./particle-flow.gif" alt="Decorative animation of teal and blue particle tracks converging and radiating through detector rings" width="100%" />
-  <br /><sub>Particle flow · Original schematic animation, not a physics simulation.</sub>
+  <img src="./github-profile-video.gif" alt="Stylized animation of colliding nuclei inside a detector, converted from my profile video" width="100%" />
+  <br /><sub>Artistic collision visualization · Not experimental data.</sub>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/regmi-sijan/"><strong>LinkedIn</strong></a>
+<h2 align="center">
+  <a href="https://www.linkedin.com/in/regmi-sijan/">LinkedIn</a>
   &nbsp; · &nbsp;
-  <a href="https://orcid.org/0000-0003-2620-2578"><strong>ORCID & publications</strong></a>
+  <a href="https://orcid.org/0000-0003-2620-2578">ORCID &amp; publications</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/regmi-sijan/CaloHistViewer"><strong>CaloHistViewer</strong></a>
-</p>
+  <a href="https://github.com/regmi-sijan/CaloHistViewer">CaloHistViewer</a>
+</h2>
 
 ## Physics questions. Reproducible code.
 
@@ -51,15 +51,6 @@ A Python GUI for visualizing and inspecting per-tower electromagnetic calorimete
 [Explore CaloHistViewer →](https://github.com/regmi-sijan/CaloHistViewer)
 
 ## Heavy-ion collisions in motion
-
-### Collision visual
-
-<p align="center">
-  <img src="./github-profile-video.gif" alt="Stylized animation of colliding nuclei inside a detector, converted from my profile video" width="640" />
-  <br /><sub>Artistic collision visualization · Converted from my supplied video; not experimental data.</sub>
-</p>
-
-### Heavy-ion event visualization
 
 <p align="center">
   <a href="https://www.sdcc.bnl.gov/phobos/Animations/index.htm">
@@ -115,3 +106,4 @@ Co-author as a member of the **sPHENIX Collaboration**:
 </p>
 
 <!-- Visual assets: original banner and toolkit layout. Python, C++, and Git icons from Simple Icons (https://simpleicons.org/), CC0. Brand marks belong to their respective owners. -->
+
