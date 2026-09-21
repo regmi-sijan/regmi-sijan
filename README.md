@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./github-profile-video.gif" alt="Stylized animation of colliding nuclei inside a detector, converted from my profile video" width="480" />
+  <img src="./github-profile-video-hq.gif" alt="Stylized animation of colliding nuclei inside a detector, converted from my profile video" width="560" />
   <br /><sub>Artistic collision visualization · Not experimental data.</sub>
 </p>
 
@@ -13,6 +13,8 @@
   <a href="https://orcid.org/0000-0003-2620-2578">ORCID &amp; publications</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/regmi-sijan/CaloHistViewer">CaloHistViewer</a>
+  &nbsp; · &nbsp;
+  <a href="https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1787138213251974&amp;clear=10&amp;session=114816447579319">PhD Thesis</a>
 </h2>
 
 ## Physics questions. Reproducible code.
@@ -90,7 +92,7 @@ Co-author as a member of the **sPHENIX Collaboration**:
 
 <br />
 
-- **PhD in Physics**, Ohio University, 2026 — experimental high-energy physics.
+- **PhD in Physics**, Ohio University, 2026 — experimental high-energy physics. [Read my PhD thesis](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1787138213251974&clear=10&session=114816447579319).
 - **MS in Physics**, Ohio University, 2022; **MS in Physics**, Tribhuvan University, 2018.
 - Undergraduate physics laboratory instruction, mentoring, and graduate mathematical physics grading.
 - Manuscript peer review, research-grant review, and STEM outreach.
@@ -106,5 +108,6 @@ Co-author as a member of the **sPHENIX Collaboration**:
 </p>
 
 <!-- Visual assets: original banner and toolkit layout. Python, C++, and Git icons from Simple Icons (https://simpleicons.org/), CC0. Brand marks belong to their respective owners. -->
+
 
 
