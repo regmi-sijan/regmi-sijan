@@ -12,8 +12,6 @@
   &nbsp; · &nbsp;
   <a href="https://orcid.org/0000-0003-2620-2578">ORCID &amp; publications</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/regmi-sijan/CaloHistViewer">CaloHistViewer</a>
-  &nbsp; · &nbsp;
   <a href="https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1787138213251974&amp;clear=10&amp;session=114816447579319">PhD Thesis</a>
 </h2>
 
@@ -42,16 +40,6 @@ I build tools that turn complex experimental data into interpretable results—f
 | Electromagnetic calorimetry, detector calibration, and performance studies | Reusable analysis workflows, interactive diagnostics, and reproducible data processing | Supervised classification and signal/background separation |
 | Neutral-meson reconstruction and signal extraction | Python, C++, ROOT, shell scripting, and Git | Statistical validation and uncertainty quantification |
 
-## Featured project · CaloHistViewer
-
-**See the detector, one channel at a time.**
-
-A Python GUI for visualizing and inspecting per-tower electromagnetic calorimeter histograms. Built to support sPHENIX detector calibration, diagnostics, and monitoring.
-
-**Python · Scientific visualization · Detector diagnostics**
-
-[Explore CaloHistViewer →](https://github.com/regmi-sijan/CaloHistViewer)
-
 ## Heavy-ion collisions in motion
 
 <p align="center">
@@ -71,7 +59,6 @@ A Python GUI for visualizing and inspecting per-tower electromagnetic calorimete
 - **EMCal calibration:** Used neutral-pion decays to calibrate the sPHENIX electromagnetic calorimeter and validate its energy scale.
 - **Neutral-meson physics:** Studied pion and eta production in proton–proton collisions, including efficiency studies and background reconstruction.
 - **ML for reconstruction:** Developed a supervised classification framework for signal/background separation in eta-meson reconstruction.
-- **Research software:** Developed CaloHistViewer to make per-channel detector data easier to inspect and interpret.
 
 <details>
 <summary><strong>Selected publications</strong></summary>
@@ -108,6 +95,7 @@ Co-author as a member of the **sPHENIX Collaboration**:
 </p>
 
 <!-- Visual assets: original banner and toolkit layout. Python, C++, and Git icons from Simple Icons (https://simpleicons.org/), CC0. Brand marks belong to their respective owners. -->
+
 
 
 
