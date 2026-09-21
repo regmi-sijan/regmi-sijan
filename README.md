@@ -17,7 +17,7 @@
   <a href="https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1787138213251974&amp;clear=10&amp;session=114816447579319">PhD Thesis</a>
 </h2>
 
-## Physics questions. Reproducible code.
+## Physics questions.
 
 <p align="center">
   <a href="https://www.sphenix.bnl.gov/">
