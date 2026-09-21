@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./github-profile-video.gif" alt="Stylized animation of colliding nuclei inside a detector, converted from my profile video" width="100%" />
+  <img src="./github-profile-video.gif" alt="Stylized animation of colliding nuclei inside a detector, converted from my profile video" width="480" />
   <br /><sub>Artistic collision visualization · Not experimental data.</sub>
 </p>
 
@@ -106,4 +106,5 @@ Co-author as a member of the **sPHENIX Collaboration**:
 </p>
 
 <!-- Visual assets: original banner and toolkit layout. Python, C++, and Git icons from Simple Icons (https://simpleicons.org/), CC0. Brand marks belong to their respective owners. -->
+
 
