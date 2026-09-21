@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="./github-profile-video-hq.gif" alt="Stylized animation of colliding nuclei inside a detector, converted from my profile video" width="560" />
-  <br /><sub>Artistic collision visualization · Not experimental data.</sub>
+  <br /><sub>Artistic collision visualization created using Gemini · Not experimental data.</sub>
 </p>
 
 <h2 align="center">
