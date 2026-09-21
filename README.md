@@ -15,7 +15,7 @@
   <a href="https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=ohiou1787138213251974&amp;clear=10&amp;session=114816447579319">PhD Thesis</a>
 </h2>
 
-## Physics questions.
+## Introduction
 
 <p align="center">
   <a href="https://www.sphenix.bnl.gov/">
@@ -105,6 +105,7 @@ Co-author as a member of the **sPHENIX Collaboration**:
 </p>
 
 <!-- Visual assets: original banner and toolkit layout. Python, C++, and Git icons from Simple Icons (https://simpleicons.org/), CC0. Brand marks belong to their respective owners. -->
+
 
 
 
