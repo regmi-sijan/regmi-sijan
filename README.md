@@ -52,6 +52,15 @@ A Python GUI for visualizing and inspecting per-tower electromagnetic calorimete
 
 ## Heavy-ion collisions in motion
 
+### Collision visual
+
+<p align="center">
+  <img src="./github-profile-video.gif" alt="Stylized animation of colliding nuclei inside a detector, converted from my profile video" width="640" />
+  <br /><sub>Artistic collision visualization · Converted from my supplied video; not experimental data.</sub>
+</p>
+
+### Heavy-ion event visualization
+
 <p align="center">
   <a href="https://www.sdcc.bnl.gov/phobos/Animations/index.htm">
     <img src="./heavy-ion-qgp.gif" alt="MIT visualization of an Au+Au collision at 200 GeV, showing incoming nuclei, the modeled quark-gluon medium, and outgoing particles" width="480" />
