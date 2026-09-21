@@ -60,6 +60,16 @@ I build tools that turn complex experimental data into interpretable results—f
 - **Neutral-meson physics:** Studied pion and eta production in proton–proton collisions, including efficiency studies and background reconstruction.
 - **ML for reconstruction:** Developed a supervised classification framework for signal/background separation in eta-meson reconstruction.
 
+## Featured project · CaloHistViewer
+
+**See the detector, one channel at a time.**
+
+A Python GUI for visualizing and inspecting per-tower electromagnetic calorimeter histograms. Built to support sPHENIX detector calibration, diagnostics, and monitoring.
+
+**Python · Scientific visualization · Detector diagnostics**
+
+[Explore CaloHistViewer →](https://github.com/regmi-sijan/CaloHistViewer)
+
 <details>
 <summary><strong>Selected publications</strong></summary>
 
@@ -95,6 +105,7 @@ Co-author as a member of the **sPHENIX Collaboration**:
 </p>
 
 <!-- Visual assets: original banner and toolkit layout. Python, C++, and Git icons from Simple Icons (https://simpleicons.org/), CC0. Brand marks belong to their respective owners. -->
+
 
 
 
