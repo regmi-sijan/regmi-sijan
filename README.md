@@ -12,6 +12,14 @@
 
 ## Physics questions. Reproducible code.
 
+<p align="center">
+  <a href="https://www.sphenix.bnl.gov/">
+    <img src="./sphenix-logo.png" alt="Official sPHENIX Collaboration logo" width="220" />
+  </a><br />
+  <sub>Research with the sPHENIX Collaboration · RHIC · Brookhaven National Laboratory</sub><br />
+  <sub>Logo credit: <a href="https://www.sphenix.bnl.gov/logo">sPHENIX Collaboration</a>.</sub>
+</p>
+
 I'm **Sijan**, a PhD physicist working at the intersection of **experimental particle physics, scientific computing, and machine learning**. My research with the **sPHENIX Collaboration at Brookhaven National Laboratory** focused on electromagnetic calorimeter calibration and neutral-pion and eta-meson measurements.
 
 I build tools that turn complex experimental data into interpretable results—from detector diagnostics and statistical analysis to supervised signal/background classification.
@@ -36,6 +44,20 @@ A Python GUI for visualizing and inspecting per-tower electromagnetic calorimete
 **Python · Scientific visualization · Detector diagnostics**
 
 [Explore CaloHistViewer →](https://github.com/regmi-sijan/CaloHistViewer)
+
+## Heavy-ion collisions in motion
+
+<p align="center">
+  <a href="https://www.sdcc.bnl.gov/phobos/Animations/index.htm">
+    <img src="./heavy-ion-qgp.gif" alt="MIT visualization of an Au+Au collision at 200 GeV, showing incoming nuclei, the modeled quark-gluon medium, and outgoing particles" width="480" />
+  </a>
+</p>
+
+**From colliding nuclei to an expanding particle system.** This illustrative HIJING-based event visualization shows a gold–gold collision and its evolution. Blue denotes the nuclei, red the modeled quark–gluon medium, light blue baryons, and gray mesons. It is an educational visualization, not sPHENIX collision data.
+
+**Animation credit:** Heavy Ion Group at MIT — Yen-Jie Lee, Andre S. Yoon, and Wit Busza. [Original animation and modeling assumptions, hosted by PHOBOS/BNL](https://www.sdcc.bnl.gov/phobos/Animations/index.htm) · [Original video](https://www.sdcc.bnl.gov/phobos/Animations/zx_jan122008.mpg). Converted to a resized, looping GIF; original on-screen credits retained.
+
+**Why jets?** Energetic quarks and gluons traverse the QGP and emerge as sprays of particles. Measuring how those jets are modified helps probe the medium. [Learn about sPHENIX's jet and heavy-flavor program →](https://www.bnl.gov/rhic/sphenix.php)
 
 ## Research highlights
 
